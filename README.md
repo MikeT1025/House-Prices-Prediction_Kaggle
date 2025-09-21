@@ -43,3 +43,6 @@ Through systematic feature engineering and hyperparameter tuning, the final XGBo
 - Scikit-learn (preprocessing, model selection, metrics)
 - XGBoost
 - Matplotlib/Seaborn (visualization)
+
+# Information Page & Dataset
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
