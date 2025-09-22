@@ -1,4 +1,4 @@
-# House-Prices-Prediction_Kaggle
+# House-Price-Prediction_Kaggle
 
 This is my first independent machine learning project focused on predicting house prices using regression techniques. Through this hands-on practice, I gained comprehensive experience in end-to-end data processing, feature engineering, and model optimization.
 
